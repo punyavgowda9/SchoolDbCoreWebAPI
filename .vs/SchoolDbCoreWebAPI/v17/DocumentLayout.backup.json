@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\models\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:models\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\migrations\\20260330053650_addusersv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:migrations\\20260330053650_addusersv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\services\\stdwithgradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:services\\stdwithgradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\schooldbcorewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:schooldbcorewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\dto\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:dto\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\schooldbcorewebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:schooldbcorewebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\migrations\\20260330060355_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:migrations\\20260330060355_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|c:\\teksystems\\projects\\schooldbcorewebapi\\services\\gradedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533A1F11-CEB1-417A-BD1E-C8A1485DB20B}|SchoolDbCoreWebAPI.csproj|solutionrelative:services\\gradedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GradeDAL.cs",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Services\\GradeDAL.cs",
+              "RelativeDocumentMoniker": "Services\\GradeDAL.cs",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Services\\GradeDAL.cs",
+              "RelativeToolTip": "Services\\GradeDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T11:14:55.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "Models\\Grade.cs",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Models\\Grade.cs",
+              "RelativeToolTip": "Models\\Grade.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:11:35.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:12:43.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-27T04:52:13.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA5wBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T04:50:27.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T05:05:41.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeController.cs",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Controllers\\GradeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GradeController.cs",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Controllers\\GradeController.cs",
+              "RelativeToolTip": "Controllers\\GradeController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T07:21:05.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwEAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:40:20.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Models\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolDbContext.cs",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Models\\SchoolDbContext.cs",
+              "RelativeToolTip": "Models\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:12:17.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T10:53:50.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Models\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Models\\PasswordHasher.cs",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Models\\PasswordHasher.cs",
+              "RelativeToolTip": "Models\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T05:17:19.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-27T04:52:17.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260330053650_AddUsersV1.cs",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Migrations\\20260330053650_AddUsersV1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260330053650_AddUsersV1.cs",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Migrations\\20260330053650_AddUsersV1.cs",
+              "RelativeToolTip": "Migrations\\20260330053650_AddUsersV1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T05:36:51.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StdWithGradeDTO.cs",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Services\\StdWithGradeDTO.cs",
+              "RelativeDocumentMoniker": "Services\\StdWithGradeDTO.cs",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Services\\StdWithGradeDTO.cs",
+              "RelativeToolTip": "Services\\StdWithGradeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:59:17.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260330060355_InitialCreate.cs",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Migrations\\20260330060355_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260330060355_InitialCreate.cs",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Migrations\\20260330060355_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260330060355_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:03:55.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SchoolDbCoreWebAPI.csproj",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\SchoolDbCoreWebAPI.csproj",
+              "RelativeDocumentMoniker": "SchoolDbCoreWebAPI.csproj",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\SchoolDbCoreWebAPI.csproj",
+              "RelativeToolTip": "SchoolDbCoreWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-27T09:27:13.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:44:48.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentCreateDTO.cs",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\DTO\\StudentCreateDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\StudentCreateDTO.cs",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\DTO\\StudentCreateDTO.cs",
+              "RelativeToolTip": "DTO\\StudentCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T09:29:21.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SchoolDbCoreWebAPI.http",
+              "DocumentMoniker": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\SchoolDbCoreWebAPI.http",
+              "RelativeDocumentMoniker": "SchoolDbCoreWebAPI.http",
+              "ToolTip": "C:\\TekSystems\\Projects\\SchoolDbCoreWebAPI\\SchoolDbCoreWebAPI.http",
+              "RelativeToolTip": "SchoolDbCoreWebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-27T05:27:10.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
