@@ -37,7 +37,7 @@ builder.Services.AddSwaggerGen(c =>
         Version = "v1"
     });
 });
-app.UseSwagger();
+
 var app = builder.Build();
 app.UseSwagger();
 if(app.Environment.IsDevelopment())
